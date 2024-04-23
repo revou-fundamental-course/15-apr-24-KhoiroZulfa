@@ -1,0 +1,41 @@
+header {
+    width: 400px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  section {
+    background-color:lightgrey;
+    width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .opening {
+    font-size: 15px;
+    text-align: justify;
+  }
+  
+  .inputSection {
+    text-align: center;
+  }
+  
+  .custom-input {
+    width: 190px;
+    height: 20px;
+  }
+  
+  .custom-input2 {
+    width: 250px;
+    height: 50px;
+  }
+  
+  .button {
+    text-align: center;
+  }
+  
+  .explain {
+    text-align: center;
+  }
