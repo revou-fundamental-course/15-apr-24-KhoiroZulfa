@@ -1,4 +1,5 @@
-const celcius = document.getElementById("celciusInput").value;
+function convert() {
+    const celcius = document.getElementById("celciusInput").value;
     // const result = document.getElementById("fahrenheit");
     // const explanation = document.getElementById("explain");
     
